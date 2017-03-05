@@ -1,6 +1,6 @@
 slack:
     apiToken: 'your API Token'
     botID: 'your Bot ID'
-    defaultChannel: 'general <or whatever you wnat>'
+    defaultChannel: 'general <or whatever you want>'
 database:
     server: 'test'
