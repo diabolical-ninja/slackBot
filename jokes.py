@@ -17,7 +17,11 @@ def jokes():
                What's the difference between data science and a statistics?
                
                Data science is statistics on a Mac"
-               '''
+               ''',
+               '''Three logicians walk into a bar and the barman says "would all of you like a drink"?
+               "I don't know" said the first.
+               "I'm not sure" said the second.
+               "Yes!" said the third.'''
                ]
     
     # Select joke at random
