@@ -40,5 +40,5 @@ try:
         time.sleep(refresh_rate)
 
 except:
-    print "Bot failed... :("
+    print("Bot failed... :(")
 
